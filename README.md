@@ -33,7 +33,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 
 ### [DACON](https://dacon.io/myprofile/416747/home)
 
-![image]()
+![image](https://github.com/user-attachments/assets/fe2f56a3-6638-4548-ab71-23280d0728d6)
 
 
 ## 📚 Education
