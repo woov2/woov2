@@ -89,5 +89,8 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크]() | 논문화 진행중 |
 | 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크]() |
 
+## GitHub Stats
+![Woov2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=woov2&show_icons=true&theme=swift)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
