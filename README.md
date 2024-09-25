@@ -76,7 +76,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | HD현대 AI Challenge<예선> | Dacon /<br>HD현대 AI Center | ML(Regression) | 1위/330 | 팀원 | 2023.09.25 ~ 2023.10.30 | 본선 진출 |
 | HD현대 AI Challenge<본선> | Dacon /<br>HD현대 AI Center | Time Series | 2위/11 | 팀원 | 2023.11.06 ~ 2023.11.10 | - |
 | 제주 특산물 가격 예측 AI 경진대회 | Dacon /<br>제주테크노파크 | Time Series | 208위/1093 | 팀원 | 2023.10 ~ 2023.11 | - |
-| 대구 교통사고 피해 예측 AI 경진대회 | Dacon /<br>한국자동차연구원 | ML(Regression) | 2위/942 | 팀장 |2023.11 ~ 2023.12| - |
+| 대구 교통사고 피해 예측 AI 경진대회 | Dacon /<br>한국자동차연구원 | ML(Regression) | 1위/942 | 팀장 |2023.11 ~ 2023.12| - |
 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발<예선> | Dacon /<br>LG AI Research | ML(Classification) | 12위<br>(상위 1%)　　| 팀원 | 2024.02 ~ 2024.02 | 오프라인 해커톤 진출 |
 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발<본선> | Dacon /<br>LG AI Research | ML(Classification) | 17위 | 팀원 | 2024.04.06 ~ 04.07 | - |
 
