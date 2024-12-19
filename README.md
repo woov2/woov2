@@ -85,7 +85,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
-| 2021 | ML(Regression) | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 기획, 운영 | [링크]() |
+| 2021 | ML(Regression) | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 팀원 | [링크]() |
 | 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크]() | 논문화 진행중 |
 | 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크]() |
 
