@@ -57,7 +57,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2022 | 유전체 정보 품종 분류 AI 경진대회 | 충남대학교 바이오AI융합연구센터, 티엔티리써치, AI Frenz | 개체와 SNP 정보를 이용하여 품종 분류 AI 모델 개발 | 1위(대상) | [링크](https://github.com/woov2/Dacon-Genome-breed-classification-AI-Challenge) |
 | 2023 | HD현대 AI Challenge | HD 한국조선해양 | 항만 內 선박 대기 시간 예측을 위한 선박 항차 데이터 분석 AI 알고리즘 개발(예선) /<br>건설기계 중량 예측을 위한 Sensor 데이터 분석 AI 알고리즘 개발(본선) | 2위(우수상) | [링크](https://github.com/woov2/2023-HD-AI-Challenge-Competition) |
 | 2023 | 대구 교통사고 피해 예측 AI 경진대회 | 한국자동차연구원, 대구디지털혁신진흥원 | 시공간 정보로부터 사고위험도(ECLO) 예측 AI 모델 개발 | 3위(대구디지털혁신진흥원장상) | [링크]() |
-| 2024 | 제품 이상 여부 판별 프로젝트 (LG Aimers 5th) | LG AI Research, 고용노동부, 한경닷컴 | 디스플레이 공정 데이터 기반 제품 이상 여부 예측 알고리즘 개발 | 2위(LG AI 연구원장상) | [링크]() |
+| 2024 | 제품 이상 여부 판별 프로젝트 (LG Aimers 5th) | LG AI Research, 고용노동부, 한경닷컴 | 디스플레이 공정 데이터 기반 제품 이상 여부 예측 알고리즘 개발 | 2위(LG AI 연구원장상) | [링크](https://github.com/woov2/LG_Aimers_5th) |
 | 2024 | 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 | 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터 | 암환자 유전체 데이터의 변이 정보를 활용한 암종 분류 AI 모델 개발 | 3위(국가생명연구자원정보센터 센터장상) | [링크]() |
 | 2024 | 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 | 디지털플랫폼정부위원회 / 농림축산식품부 | 국민생활과 밀접한 10개 농산물 품목의 가격 예측 AI 모델 개발 | 3위(한국지능정보사회진흥원장상) | [링크]() |
 
@@ -96,7 +96,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | :------: | :------: | :------: | :------: | :------: |
 | 2021 | ML(Regression) | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 팀원 | - |
 | 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크]() | IEEE Access Submitted |
-| 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크]() |
+| 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크](https://github.com/woov2/Personal_color_classifiaction_Makeup_Generation) |
 | 2024 | LLM(Gemma) | Gemma Fine tuning을 통한 고객 불만 요약 챗봇 개발 | 팀장 | [링크]() | Google ML Bootcamp Project |
 | 2024 | ML(Classification) & DL(NLP/LLM) | Table to Text : 정형 데이터를 다루는 새로운 접근 | 팀장 | [링크]() |
 | 2024 | DL(CV/LLM/Recommend System) | 영양소 분석 및 어울림 정도를 활용한 음식 추천 시스템 개발 | 팀장 | [링크]() |
