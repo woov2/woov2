@@ -45,7 +45,8 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 멤버 | [링크](https://cms.kookmin.ac.kr/dna/index.do)|
 | 2023.07 ~ 2023.08 | LG AI Research | LG Aimers/Data Intelligence 3기 | - | 수료 |
 | 2024.01 ~ 2024.02 | LG AI Research | LG Aimers/Data Intelligence 4기 | - | 수료 |
-| 2024.06 ~ | Google AI | Google ML Bootcamp 2024 | - | 진행중 |
+| 2024.07 ~ 2024.08 | LG AI Research | LG Aimers/Data Intelligence 5기 | - | 수료 |
+| 2024.06 ~ 20224.10 | Google AI | Google ML Bootcamp 2024 | - | 수료 |
 
 ## 🏆 Award  
 
