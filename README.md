@@ -31,10 +31,12 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woov2&layout=compact&theme=dark&langs_count=5)](https://github.com/woov2/github-readme-stats)
 
 
-### [DACON](https://dacon.io/myprofile/416747/home)
+## [DACON](https://dacon.io/myprofile/416747/home)
 
 ![Dacon tier img](https://github.com/user-attachments/assets/010edb09-28a6-48b2-acf8-942301e5cc03)
 
+## Baekjoon Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woo999)](https://solved.ac/woo999/)
 
 ## 📚 Education
 
