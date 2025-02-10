@@ -60,7 +60,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2023 | HD현대 AI Challenge | HD 한국조선해양 | 항만 內 선박 대기 시간 예측을 위한 선박 항차 데이터 분석 AI 알고리즘 개발(예선) /<br>건설기계 중량 예측을 위한 Sensor 데이터 분석 AI 알고리즘 개발(본선) | 2위(우수상) | [링크](https://github.com/woov2/2023-HD-AI-Challenge-Competition) |
 | 2023 | 대구 교통사고 피해 예측 AI 경진대회 | 한국자동차연구원, 대구디지털혁신진흥원 | 시공간 정보로부터 사고위험도(ECLO) 예측 AI 모델 개발 | 3위(대구디지털혁신진흥원장상) | [링크](https://github.com/woov2/Daegu_traffic_accident_damage_prediction_AI_Competition) |
 | 2024 | 제품 이상 여부 판별 프로젝트 (LG Aimers 5th) | LG AI Research, 고용노동부, 한경닷컴 | 디스플레이 공정 데이터 기반 제품 이상 여부 예측 알고리즘 개발 | 2위(LG AI 연구원장상) | [링크](https://github.com/woov2/LG_Aimers_5th) |
-| 2024 | 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 | 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터 | 암환자 유전체 데이터의 변이 정보를 활용한 암종 분류 AI 모델 개발 | 3위(국가생명연구자원정보센터 센터장상) | [링크]() |
+| 2024 | 2024 생명연구자원 AI활용 경진대회 : 인공지능 활용 부문 | 과학기술정보통신부, 한국생명공학연구원, 국가생명연구자원정보센터 | 암환자 유전체 데이터의 변이 정보를 활용한 암종 분류 AI 모델 개발 | 3위(국가생명연구자원정보센터 센터장상) | [링크](https://github.com/woov2/Life_research_resources_AI_utilization_contest) |
 | 2024 | 데이터·AI를 활용한 물가 예측 경진대회 : 농산물 가격을 중심으로 | 디지털플랫폼정부위원회 / 농림축산식품부 | 국민생활과 밀접한 10개 농산물 품목의 가격 예측 AI 모델 개발 | 3위(한국지능정보사회진흥원장상) | [링크]() |
 
 
