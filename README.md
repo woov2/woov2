@@ -50,6 +50,12 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2024.07 ~ 2024.08 | LG AI Research | LG Aimers/Data Intelligence 5기 | - | 수료 |
 | 2024.06 ~ 20224.10 | Google AI | Google ML Bootcamp 2024 | - | 수료 |
 
+## 📃 Publication
+
+| 연도 | Keywords | 논문명 | 링크 | 비고 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2025 | Computer vision, Dataset, Image distortion, Metric | Distortion Measurement Metric for Human Image Refinement and Evaluation Using Distorted Image Datasets | [링크](https://github.com/woov2/DLS_P2P) | IEEE Access accepted |
+
 ## 🏆 Award  
 
 | 연도 | 대회명 | 주최 | 내용 | 수상 | 링크 |    
@@ -97,7 +103,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 연도 | 분류 | 프로젝트명 | 역할 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2021 | ML(Regression) | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 팀원 | - |
-| 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크](https://github.com/woov2/DLS_P2P) | IEEE Access Submitted |
+| 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크](https://github.com/woov2/DLS_P2P) | IEEE Access accepted |
 | 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크](https://github.com/woov2/Personal_color_classifiaction_Makeup_Generation) |
 | 2024 | LLM(Gemma) | Gemma Fine tuning을 통한 고객 불만 요약 챗봇 개발 | 팀장 | - | Google ML Bootcamp Project |
 | 2024 | ML(Classification) & DL(NLP/LLM) | Table to Text : 정형 데이터를 다루는 새로운 접근 | 팀장 | [링크](https://github.com/woov2/Table_to_Text-A_new_approach_to_handling_structured_data) |
