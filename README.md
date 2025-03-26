@@ -43,7 +43,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2015.03 ~ 2018.02 | 신일고등학교 | 이공계열 | - | 졸업 |
-| 2019.03 ~ | 국민대학교  | AI빅데이터융합경영전공공 | 제1전공 | 수료 |
+| 2019.03 ~ | 국민대학교  | AI빅데이터융합경영전공 | 제1전공 | 수료 |
 | 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 멤버 | [링크](https://cms.kookmin.ac.kr/dna/index.do)|
 | 2023.07 ~ 2023.08 | LG AI Research | LG Aimers/Data Intelligence 3기 | - | 수료 |
 | 2024.01 ~ 2024.02 | LG AI Research | LG Aimers/Data Intelligence 4기 | - | 수료 |
