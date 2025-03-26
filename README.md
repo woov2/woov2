@@ -43,7 +43,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2015.03 ~ 2018.02 | 신일고등학교 | 이공계열 | - | 졸업 |
-| 2019.03 ~ | 국민대학교  | 빅데이터경영통계전공(AI빅데이터융합경영학과) | 제1전공 | 재학 |
+| 2019.03 ~ | 국민대학교  | AI빅데이터융합경영전공공 | 제1전공 | 수료 |
 | 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 멤버 | [링크](https://cms.kookmin.ac.kr/dna/index.do)|
 | 2023.07 ~ 2023.08 | LG AI Research | LG Aimers/Data Intelligence 3기 | - | 수료 |
 | 2024.01 ~ 2024.02 | LG AI Research | LG Aimers/Data Intelligence 4기 | - | 수료 |
@@ -75,7 +75,7 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 대회명 | 주관/주최 | Tag | 순위 | 역할 | 기간 | 비고 |
 | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 주차수요 예측 AI 경진대회 | Dacon /<br>한국토지주택공사 | Regression | 36위/503 | 팀원 | 2021.06.10 ~ 2021.07.30 | - |
-| 제1회 산학연계공모전 | AI빅데이터융합경영학과 /<br>(주)플랫포머스 | Binary Classification | 2위/10 | 팀원 | 2021.10.26 ~ 2021.12.01 | - |
+| 제1회 산학연계공모전 | AI빅데이터융합경영학과 /<br>(주)플랫포머스 | Binary Classification | 2위/10 | 팀원 | 2021.10.26 ~ 2021.12.01 | 최우수상 수상 |
 | 물류 유통량 예측 AI 경진대회 | Dacon /<br>국토연구원 | Regression | 15위/237 | 팀장 | 2021.12.06 ~ 2021.12.20 | - |
 | 월간 데이콘 음향 데이터 COVID-19 검출 AI 경진대회 | Dacon | Binary Classification | 10위/481 | 팀장 | 2022.05.31 ~ 2022.07.08 | Scholarship |
 | 2022 BigContest | BigContest | Binary Classification /<br>Serivce Idea | - | 팀원 | 2022.08.30 ~ 2022.10.14 | - |
