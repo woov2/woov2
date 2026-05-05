@@ -108,8 +108,4 @@ I graduated from Kookmin University in February 2026, majoring in AI Big Data Ma
 | 2025 | ML(Regression) | 물류 물동량 예측 모델 개발 | 데이터 추출/정의, 피처 발굴, 모델 개발, 운영 리포트 및 지원 | (주)딜리버스 프로젝트 |
 | 2025 | Algorithm(Routing Engine/Optimization) | 라스트마일 경로 최적화 시스템 개발 | 라우팅 엔진 선정/튜닝, 시스템 검증/배포 | (주)딜리버스 프로젝트 |
 
-## GitHub Stats
-![Woov2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=woov2&show_icons=true&theme=swift)
-
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=footer)
