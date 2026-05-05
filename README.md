@@ -2,9 +2,9 @@
 
 
 ## Hi there 👋
-Hello, I'm Sangwoo Lee, dreaming of becoming a Data Scientist
+Hello, I'm Sangwoo Lee, dreaming of becoming a Data Scientist/ML Engineer
 
-I will graduate from Kookmin University in February 2025, majoring in AI Big Data Management.
+I graduated from Kookmin University in February 2026, majoring in AI Big Data Management.
 
 
 ## ☎️ Contact
@@ -38,12 +38,18 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 ## Baekjoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woo999)](https://solved.ac/woo999/)
 
+## Career
+
+| 기간 | 회사명 | 소속 | 직급 | 역할 |
+| :------: | :------: | :------: | :------: | :------: |
+| 2025.06 ~ 2026.03 | (주)딜리버스 | 물류운영기획 | 인턴 | 물류운영데이터 분석 및 ML 개발 지원 |
+
 ## 📚 Education
 
 | 기간 | 소속 | 전공 & 교육 | 학위 | 비고 |
 | :------: | :------: | :------: | :------: | :------: |
 | 2015.03 ~ 2018.02 | 신일고등학교 | 이공계열 | - | 졸업 |
-| 2019.03 ~ | 국민대학교  | AI빅데이터융합경영전공 | 제1전공 | 수료 |
+| 2019.03 ~ 2026.02 | 국민대학교  | AI빅데이터융합경영전공 | 제1전공/심화전공 | 졸업 |
 | 2021.03 ~ 2022.12 | D&A | 빅데이터 학회(ML/DL) | 멤버 | [링크](https://cms.kookmin.ac.kr/dna/index.do)|
 | 2023.07 ~ 2023.08 | LG AI Research | LG Aimers/Data Intelligence 3기 | - | 수료 |
 | 2024.01 ~ 2024.02 | LG AI Research | LG Aimers/Data Intelligence 4기 | - | 수료 |
@@ -108,6 +114,8 @@ I will graduate from Kookmin University in February 2025, majoring in AI Big Dat
 | 2024 | LLM(Gemma) | Gemma Fine tuning을 통한 고객 불만 요약 챗봇 개발 | 팀장 | - | Google ML Bootcamp Project |
 | 2024 | ML(Classification) & DL(NLP/LLM) | Table to Text : 정형 데이터를 다루는 새로운 접근 | 팀장 | [링크](https://github.com/woov2/Table_to_Text-A_new_approach_to_handling_structured_data) |
 | 2024 | DL(CV/LLM/Recommend System) | 영양소 분석 및 어울림 정도를 활용한 음식 추천 시스템 개발 | 팀장 | [링크](https://github.com/woov2/Development_of_a_food_recommendation_system_using_nutrient_analysis_and_compatibility) |
+| 2025 | ML(Regression) | 물류 물동량 예측 모델 개발 | 데이터 추출/정의, 피처 발굴, 모델 개발, 운영 리포트 및 지원 | (주)딜리버스 프로젝트 |
+| 2025 | Algorithm(Routing Engine/Optimization) | 라스트마일 경로 최적화 시스템 개발 | 라우팅 엔진 선정/튜닝, 시스템 검증/배포 | (주)딜리버스 프로젝트 |
 
 ## GitHub Stats
 ![Woov2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=woov2&show_icons=true&theme=swift)
