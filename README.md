@@ -22,15 +22,6 @@ I graduated from Kookmin University in February 2026, majoring in AI Big Data Ma
 ### Platform
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
 
-
-## Hits
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/woov2%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woov2&layout=compact&theme=dark&langs_count=5)](https://github.com/woov2/github-readme-stats)
-
-
 ## [DACON](https://dacon.io/myprofile/416747/home)
 
 ![Dacon tier img](https://github.com/user-attachments/assets/010edb09-28a6-48b2-acf8-942301e5cc03)
