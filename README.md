@@ -102,7 +102,7 @@ I graduated from Kookmin University in February 2026, majoring in AI Big Data Ma
 | 2021 | ML(Regression) | 유통 데이터 및 구매 데이터로 고객 연령 예측 | 팀원 | 머신러닝 학부 전공 프로젝트 |
 | 2021 | DL(Computer Vision) | 딥러닝을 활용한 이미지 객체 보정 | 팀원 | [링크](https://github.com/woov2/DLS_P2P) | 개인/팀 프로젝트(IEEE Access accepted) |
 | 2022 | ML(Classification) & DL(CV/GAN) | 퍼스널 컬러 분류 및 메이크업 생성 | 팀원 | [링크](https://github.com/woov2/Personal_color_classifiaction_Makeup_Generation) |
-| 2024 | LLM(Gemma) | Gemma Fine tuning을 통한 고객 불만 요약 챗봇 개발 | 팀장 | - | Google ML Bootcamp Project |
+| 2024 | LLM(Gemma) | Gemma Fine tuning을 통한 고객 불만 요약 챗봇 개발 | 팀장 | Google ML Bootcamp Project |
 | 2024 | ML(Classification) & DL(NLP/LLM) | Table to Text : 정형 데이터를 다루는 새로운 접근 | 팀장 | [링크](https://github.com/woov2/Table_to_Text-A_new_approach_to_handling_structured_data) |
 | 2024 | DL(CV/LLM/Recommend System) | 영양소 분석 및 어울림 정도를 활용한 음식 추천 시스템 개발 | 팀장 | [링크](https://github.com/woov2/Development_of_a_food_recommendation_system_using_nutrient_analysis_and_compatibility) |
 | 2025 | ML(Regression) | 물류 물동량 예측 모델 개발 | 데이터 추출/정의, 피처 발굴, 모델 개발, 운영 리포트 및 지원 | (주)딜리버스 프로젝트 |
